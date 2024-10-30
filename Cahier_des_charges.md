@@ -11,7 +11,7 @@
 8. [Planning](#planning)
 
 ## Introduction
-L'objectif de ce document est de définir les spécifications pour la création d'une application web de météo. Cette application permettra aux utilisateurs de consulter les prévisions météorologiques pour différentes localisations.
+L'objectif de ce document est de définir les spécifications pour la création d'une application web de météo. Cette application permettra aux utilisateurs de consulter les prévisions météorologiques pour différentes localisations. Lien vers le [Trello](https://trello.com/b/PygR7QyU/ynov-camping)
 
 ## Objectifs
 - Créer un site web
