@@ -9,6 +9,7 @@
 6. [Technologies Utilisées](#technologies-utilisées)
 7. [Contraintes](#contraintes)
 8. [Planning](#planning)
+9. [Benchmark](#benchmark)
 
 ## Introduction
 L'objectif de ce document est de définir les spécifications pour la création d'une application web de météo. Cette application permettra aux utilisateurs de consulter les prévisions météorologiques pour différentes localisations. Lien vers le [Trello](https://trello.com/b/PygR7QyU/ynov-camping)
@@ -57,3 +58,10 @@ L'API météo sera responsable de :
 | Phase 3 | Développement du frontend et intégration avec l'API  | À voir |
 | Phase 4 | Tests et déploiement                                 | À voir |
 | Phase 5 | Maintenance et mises à jour                          | À voir |
+
+## Benchmark
+
+- 1er site : [The Weather Channel](https://weather.com/fr-FR/)
+| Points forts | Points faibles |
+| ----- | ----- |
+| Météo du jour Prévision heure par heure Previsions par jour Barre de recherche de ville | (Ajouter des points faibles) |
