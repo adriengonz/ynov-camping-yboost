@@ -14,8 +14,11 @@
 L'objectif de ce document est de définir les spécifications pour la création d'une application web de météo. Cette application permettra aux utilisateurs de consulter les prévisions météorologiques pour différentes localisations.
 
 ## Objectifs
-- Fournir des prévisions météorologiques à jour.
+- Créer un site web
+- Fournir des prévisions météorologiques à jour (API).
 - Offrir une interface utilisateur intuitive et réactive.
+- Fournir des prévisions météorologiques à jour (API)
+- Developper un programme de machine learning qui permet de prédire la météo des prochains jours sous différentes conditions.
 
 ## Fonctionnalités
 - Affichage des prévisions météorologiques sur plusieurs jours.
@@ -46,11 +49,8 @@ L'API météo sera responsable de :
 - L'application doit être sécurisée et protéger les données des utilisateurs.
 
 ## Planning
-
-| Phase   | Description                                      | Durée       |
-|---------|--------------------------------------------------|-------------|
-| Phase 1 | Analyse des besoins et définition des spécifications | À voir      |
-| Phase 2 | Développement du backend et de l'API météo       | À voir      |
-| Phase 3 | Développement du frontend et intégration avec l'API | À voir      |
-| Phase 4 | Tests et déploiement                             | À voir      |
-| Phase 5 | Maintenance et mises à jour                      | À voir      |
+- Phase 1 : Analyse des besoins et définition des spécifications (A voir).
+- Phase 2 : Développement du backend et de l'API météo (A voir).
+- Phase 3 : Développement du frontend et intégration avec l'API (A voir).
+- Phase 4 : Tests et déploiement (A voir).
+- Phase 5 : Maintenance et mises à jour (A voir).
