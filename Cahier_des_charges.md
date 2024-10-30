@@ -12,6 +12,7 @@
 
 ## Introduction
 L'objectif de ce document est de définir les spécifications pour la création d'une application web de météo. Cette application permettra aux utilisateurs de consulter les prévisions météorologiques pour différentes localisations.
+Lien vers le [Trello](https://trello.com/b/PygR7QyU/ynov-camping)
 
 ## Objectifs
 - Fournir des prévisions météorologiques à jour.
@@ -53,4 +54,3 @@ L'API météo sera responsable de :
 | Phase 2 | Développement du backend et de l'API météo       | À voir      |
 | Phase 3 | Développement du frontend et intégration avec l'API | À voir      |
 | Phase 4 | Tests et déploiement                             | À voir      |
-| Phase 5 | Maintenance et mises à jour                      | À voir      |
