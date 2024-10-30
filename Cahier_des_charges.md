@@ -46,8 +46,11 @@ L'API météo sera responsable de :
 - L'application doit être sécurisée et protéger les données des utilisateurs.
 
 ## Planning
-- Phase 1 : Analyse des besoins et définition des spécifications (A voir).
-- Phase 2 : Développement du backend et de l'API météo (A voir).
-- Phase 3 : Développement du frontend et intégration avec l'API (A voir).
-- Phase 4 : Tests et déploiement (A voir).
-- Phase 5 : Maintenance et mises à jour (A voir).
+
+| Phase   | Description                                      | Durée       |
+|---------|--------------------------------------------------|-------------|
+| Phase 1 | Analyse des besoins et définition des spécifications | À voir      |
+| Phase 2 | Développement du backend et de l'API météo       | À voir      |
+| Phase 3 | Développement du frontend et intégration avec l'API | À voir      |
+| Phase 4 | Tests et déploiement                             | À voir      |
+| Phase 5 | Maintenance et mises à jour                      | À voir      |
